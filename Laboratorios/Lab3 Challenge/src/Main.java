@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        // Crear un autor
         Author author = new Author("George Orwell");
 
         // Agregar un libro completo
